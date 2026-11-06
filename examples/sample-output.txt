@@ -1,0 +1,7 @@
+PROBLEM  examples/bad-changelog.md:5: no '[Unreleased]' section
+PROBLEM  examples/bad-changelog.md:11: unknown subsection 'Stuff' — use Added, Changed, Deprecated, Removed, Fixed or Security
+PROBLEM  examples/bad-changelog.md:15: version '1.3.0' comes after '1.2.0' — versions must be newest first
+PROBLEM  examples/bad-changelog.md:23: subsection 'Added' has no entries
+PROBLEM  examples/bad-changelog.md:25: version section '0.9.0' has no subsections
+PROBLEM  examples/bad-changelog.md:27: text outside a subsection
+6 problem(s) in 1 file(s)
